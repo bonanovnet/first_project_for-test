@@ -27,7 +27,7 @@ body {
 header {
     font-family: 'Roboto', sans-serif;
 }
-
+/*Комментраий для github*/
 .header__top {
     background-color: #303030;
 }
@@ -38,7 +38,7 @@ header {
     color: #1b1b1b;
     background-color: #ffc222;
     padding: 5px 20px 4px 50px;
-    font-size: 15px;
+    font-size: 16px;
     position: relative;
 }
 .header__btn:before {
